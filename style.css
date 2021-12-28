@@ -1,0 +1,84 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px rgb(255, 255, 255);
+  font-size: 23px;
+}
+.heading_div
+{
+  background: rgb(255, 255, 255) ; 
+  float: none;
+  padding: 10px;
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+  background: grey ; 
+  float: none;
+  padding: 10px;
+  padding-bottom: 220px;
+  border-radius: 20px; 
+  color: rgb(255, 255, 255);
+  box-shadow:5px 5px 5px rgb(0, 0, 0);
+}
+.heading_div3
+{
+  background: rgb(51, 122, 183) ; 
+  float: none;
+  padding: 10px;
+  border-radius: 20px; 
+  color: rgb(255, 255, 255);
+  box-shadow:5px 5px 5px grey;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+
+.result_para_tag span
+{
+  white-space: pre-line;
+}
+
+.copy_right_footer
+{
+  position:fixed;
+  color:grey;
+  bottom:0;
+  width:100%;
+  background-color: grey;
+  line-height:3;
+  text-align: center;
+}
+
+canvas{
+  border:5px solid grey;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+  margin-top:160px;
+}
+
+img{
+  border-radius: 20px;
+  border:rgb(255, 255, 255);
+  border-width: 2px;
+  border-style: solid;
+}
+
+.purple{
+  background-color: rgb(255, 255, 255);
+  color:grey;
+  border-radius: 20px;
+}
+
+.purplec{
+  color:purple;
+}
+
+.red{
+  color:red;
+}
